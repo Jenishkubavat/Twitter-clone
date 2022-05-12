@@ -1,30 +1,59 @@
 # Twitter-clone
 
-This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v2.2)](https://blog.tailwindcss.com/tailwindcss-2-2) with Next.js. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).
-
-It uses the new [`Just-in-Time Mode`](https://tailwindcss.com/docs/just-in-time-mode) for Tailwind CSS.
-
-## Preview
-
-Preview the example live on [StackBlitz](http://stackblitz.com/):
 
 
+##  Table of contents
+- [Overview](#overview)
+- [Available Scripts](#available-scripts)
+- [Built with](#build-with)
+- [Troubleshooting](#troubleshooting)
 
-## Deploy your own
+### Overview
+i made in it with the gole of learning reactjs and next js in mind it is a clone of Twitter' website all the design was orginaly made by twitter' team i just recreat it for learning perpose 
+#### Pages
+ - Home page
+ - Menu page
+ - login page
+ - sign up page
+ 
+### Available Scripts
 
-Deploy the example using [Vercel](https://vercel.com?utm_source=github&utm_medium=readme&utm_campaign=next-example):
+In the project directory, you can run:
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/vercel/next.js/tree/canary/examples/with-tailwindcss&project-name=with-tailwindcss&repository-name=with-tailwindcss)
+#### `npm start`
 
-## How to use
+Runs the app in the development mode.<br />
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-Execute [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) with [npm](https://docs.npmjs.com/cli/init) or [Yarn](https://yarnpkg.com/lang/en/docs/cli/create/) to bootstrap the example:
+The page will reload if you make edits.<br />
+You will also see any lint errors in the console.
 
-```bash
-npx create-next-app --example with-tailwindcss with-tailwindcss-app
-# or
-yarn create next-app --example with-tailwindcss with-tailwindcss-app
-```
+##### `npm test`
 
-Deploy it to the cloud with [Vercel](https://vercel.com/new?utm_source=github&utm_medium=readme&utm_campaign=next-example) ([Documentation](https://nextjs.org/docs/deployment)).
+Launches the test runner in the interactive watch mode.<br />
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
+##### `npm build`
+
+Builds the app for production to the `build` folder.<br />
+It correctly bundles React in production mode and optimizes the build for the best performance.
+
+The build is minified and the filenames include the hashes.<br />
+Your app is ready to be deployed!
+
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+
+
+### Links
+ Live Site URL: [https://twitter-clone-plum-pi.vercel.app/](https://twitter-clone-plum-pi.vercel.app/)
+### Build with 
+
+[Create React App](https://facebook.github.io/create-react-app/docs/getting-started).
+
+ [React](https://reactjs.org/).
+
+[Redux](https://redux.js.org/)
+### Troubleshooting
+#### `npm build` fails to minify
+
+This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
