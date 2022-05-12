@@ -12,7 +12,7 @@
 i made in it with the gole of learning reactjs and next js in mind it is a clone of Twitter' website all the design was orginaly made by twitter' team i just recreat it for learning perpose 
 #### Pages
  - Home page
- - Menu page
+ - comment page
  - login page
  - sign up page
  
@@ -44,15 +44,13 @@ Your app is ready to be deployed!
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
 
-### Links
- Live Site URL: [https://twitter-clone-plum-pi.vercel.app/](https://twitter-clone-plum-pi.vercel.app/)
 ### Build with 
 
 [Create React App](https://facebook.github.io/create-react-app/docs/getting-started).
 
  [React](https://reactjs.org/).
 
-[Redux](https://redux.js.org/)
+[nextjs](https://nextjs.org/)
 ### Troubleshooting
 #### `npm build` fails to minify
 
